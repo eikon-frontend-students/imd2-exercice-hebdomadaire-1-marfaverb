@@ -26,6 +26,8 @@ body {
   gap: 20px;
   padding: 15px;
   width: 370px;
+  margin: 50px;
+  box-shadow: 0 4px 10px 10px rgba(0, 0, 0, 0.05);
 }
 
 .coffee {
@@ -35,11 +37,11 @@ body {
 
 .describe-content {
   font-size: 27px;
+  line-height: 35px;
 }
 
 .profile {
   display: flex;
-  width: 330px;
   align-items: center;
   gap: 20px;
 }
